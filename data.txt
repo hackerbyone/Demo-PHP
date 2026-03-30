@@ -1,0 +1,5 @@
+INSERT INTO danh_sach_phim (tieu_de, the_loai, dao_dien, nam_san_xuat, thoi_luong, danh_gia)
+VALUES 
+('Inception', 'Khoa học viễn tưởng', 'Christopher Nolan', 2010, 148, 8.8),
+('The Dark Knight', 'Hành động', 'Christopher Nolan', 2008, 152, 9.0),
+('Parasite', 'Tâm lý', 'Bong Joon-ho', 2019, 132, 8.5);
